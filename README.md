@@ -1,3 +1,34 @@
+# 📅 Event Agenda - React + Supabase
+
+A modern and functional event management application built with **React 18**, **TypeScript**, and **Vite**, utilizing **Supabase** as a Backend-as-a-Service (BaaS).
+
+## 🚀 Features
+
+- **Full CRUD:** Create, Read, Update, and Delete events in real-time.
+- **Categorization:** Classify events by categories (Sports, Training, Work, Medical).
+- **Secure Backend:** Implementation of **RLS (Row Level Security)** policies in Supabase.
+- **Responsive UI:** Clean and modern design using **Bootstrap 5**.
+- **User Experience:** Interactive notifications and confirmation dialogs with **SweetAlert2**.
+- **Robust Typing:** Strict use of TypeScript interfaces for safer development and better IDE support.
+
+## 🛠️ Tech Stack
+
+- **Frontend:** [React.js](https://reactjs.org/) + [Vite](https://vitejs.dev/)
+- **Language:** [TypeScript](https://www.typescriptlang.org/)
+- **Database:** [Supabase](https://supabase.com/) (PostgreSQL)
+- **Styling:** [Bootstrap 5](https://getbootstrap.com/)
+- **Alerts:** [SweetAlert2](https://sweetalert2.github.io/)
+
+## 📦 Installation & Setup
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/franciscodominguezpezo/my-todo-app.git](https://github.com/franciscodominguezpezo/my-todo-app.git)
+   cd my-todo-app
+
+
+   ```
+
 # 📅 Agenda de Eventos - React + Supabase
 
 Una aplicación de gestión de eventos moderna y funcional construida con **React 18**, **TypeScript** y **Vite**, utilizando **Supabase** como Backend-as-a-Service (BaaS).
@@ -22,6 +53,7 @@ Una aplicación de gestión de eventos moderna y funcional construida con **Reac
 ## 📦 Instalación y Configuración
 
 1. **Clonar el repositorio:**
+
    ```bash
    git clone [https://github.com/franciscodominguezpezo/my-todo-app.git](https://github.com/franciscodominguezpezo/my-todo-app.git)
    cd my-todo-app
